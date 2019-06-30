@@ -1,0 +1,96 @@
+#header {
+      background: White;
+      height: 250px;
+}
+
+.header_title {
+      position: relative; 
+      float: right;
+      top: 0%;
+      color: black;
+      width: 85%;
+}
+
+.header_title_name {
+      background: white;
+      display: black;
+      width: 85%;
+      font-size: 50px;
+}
+
+.header_title_position {
+      font-size: 20px;
+      width: 85%;
+}
+
+
+.header_title_employment {
+      font-size: 20px;
+      width: 85%;
+   background: white;
+}
+
+.header_title_schedule {
+      font-size: 20px;
+      width: 85%;
+}
+
+.header_title_willingness_to_travel {
+      font-size: 20px;
+      width: 85%;
+}
+
+.header_title_desired_salary {
+      font-size: 20px;
+      width: 85%;
+}
+
+.header_title_number {
+      font-size: 20px;
+      width: 85%;
+}
+
+.header_title_email {
+      font-size: 20px;
+      width: 85%;
+}
+
+#avatar {
+      position: absolute; 
+      right: 1100px; 
+      top: 20px;
+      width: 150px
+}
+
+#left_content_div {
+      float: left; 
+      width: 80%;
+      background: white
+}
+
+#right_content_div {
+      float: left; 
+      width: 80%;
+}
+
+.content_section {
+      margin: 20px;
+}
+.section_title {
+      background: #858F9B;
+      font-size: 25px;
+      color: white;
+      width: 100%;
+      display: inline-block;
+}
+
+ 
+#content {
+      background: white;
+      height: 190px;
+}
+
+#footer {
+      background: white;
+      height: 80px;
+}
